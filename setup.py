@@ -1,0 +1,1 @@
+URL = "https://coinmarketcap.com/ru/currencies/ethereum/" #url адресс сайта
